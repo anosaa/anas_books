@@ -1,0 +1,16 @@
+.navbar{
+    box-shadow: 0 5px 10px rgb(90, 167, 183);
+}
+
+.nav-link{
+    color: #888 !important;
+    font-size: 1.2rem;
+    margin-left: 10px; margin-right: 10px;
+}
+.nav-link:hover{
+    color: #000 !important;
+}
+header{
+    min-height: 90vh;
+    background-image: linear-gradient( rgba(90, 167, 183,.7), rgba(90, 167, 183,.7) ) , url(../images/mountains.jpg);
+}
